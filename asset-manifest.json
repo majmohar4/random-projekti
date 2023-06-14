@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/random-projekti/static/js/main.6e776e19.js",
+    "main.js": "/random-projekti/static/js/main.bd56b320.js",
     "index.html": "/random-projekti/index.html",
-    "main.6e776e19.js.map": "/random-projekti/static/js/main.6e776e19.js.map"
+    "main.bd56b320.js.map": "/random-projekti/static/js/main.bd56b320.js.map"
   },
   "entrypoints": [
-    "static/js/main.6e776e19.js"
+    "static/js/main.bd56b320.js"
   ]
 }
