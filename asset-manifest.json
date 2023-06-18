@@ -1,13 +1,10 @@
 {
   "files": {
-    "main.css": "/random-projekti/static/css/main.ddc56d8a.css",
-    "main.js": "/random-projekti/static/js/main.bd56b320.js",
+    "main.js": "/random-projekti/static/js/main.baf4c689.js",
     "index.html": "/random-projekti/index.html",
-    "main.ddc56d8a.css.map": "/random-projekti/static/css/main.ddc56d8a.css.map",
-    "main.bd56b320.js.map": "/random-projekti/static/js/main.bd56b320.js.map"
+    "main.baf4c689.js.map": "/random-projekti/static/js/main.baf4c689.js.map"
   },
   "entrypoints": [
-    "static/css/main.ddc56d8a.css",
-    "static/js/main.bd56b320.js"
+    "static/js/main.baf4c689.js"
   ]
 }
